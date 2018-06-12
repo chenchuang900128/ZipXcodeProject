@@ -9,3 +9,6 @@ myFilePath = '/Users/llbt/Desktop/MBSiPhone'（Xcoode工程目录）
 输入命令：
 
 python + zip.py的文件目录
+
+例如：
+python /Users/llbt/Desktop/python脚本/zip.py 
